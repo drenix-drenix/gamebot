@@ -1,7 +1,6 @@
 from os import stat
 import telebot
 import random
-from telebot import types
 
 bot = telebot.TeleBot('5700642711:AAFkz7gTymGySSOGUiSjskQE_9Fm6T7K9-4')
 cards = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11] * 4
